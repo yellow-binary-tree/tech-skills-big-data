@@ -1,0 +1,38 @@
+body{
+    background-image: linear-gradient( #F2E5D4,#ffffff);
+}
+h1{
+    font-weight: 200;
+    text-align: center;
+}
+.search_box{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.fl{
+    width: 300px;
+    height: 40px;
+    border-width: 0px 0px 2px 0px;
+    font-size: 20px;
+    word-spacing: 20;
+}
+input{
+    border-width: 0 0 2 0;
+    background-color: transparent;
+}
+.search_btn_img{
+    width: 30px;
+}
+#bar_left{
+    float: left;
+}
+#bar_right{
+    float: right;
+}
+#city_name{
+    float: left;
+}
+#city_job{
+    float: right;
+}
